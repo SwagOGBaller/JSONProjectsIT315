@@ -6,7 +6,7 @@
       "RestaurantBuilding": "Sub 1",
       "RestaurantDescription": "A favorite stop for breakfast, lunch, or dinner, Chick-fil-A offers premium chicken strips, sandwiches, salads, wraps, waffle fries, and more.",
       "RestaurantWebsite": "https://masondining.sodexomyway.com/dining-near-me/chick-fil-a",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/emlH0Rv4_400x400.png"
     },
     {
       "RestaurantName": "Southside",
@@ -14,7 +14,7 @@
       "RestaurantBuilding": "Southside Dining Hall",
       "RestaurantDescription": "This all-you-care-to-eat venue provides 8 different stations and features exhibition cooking where fresh, quality ingredients are prepared right in Southside is located in the center of campus and features home-style American cuisine. ",
       "RestaurantWebsite": "https://masondining.sodexomyway.com/dining-near-me/southside",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/maxresdefault.jpg"
     },
     {
       "RestaurantName": "Panera Bread",
@@ -22,7 +22,7 @@
       "RestaurantBuilding": "Jonhson Center",
       "RestaurantDescription": "Panera offers a wide array of pastries and baked goods, such as croissants, bagels, cookies, scones, muffins and brownies. These, along with Panera's artisan breads, are typically baked before dawn by an on-staff baker.",
       "RestaurantWebsite": "https://masondining.sodexomyway.com/dining-near-me/panera-bread",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/Panera-Bread.png"
     },
     {
       "RestaurantName": "Blaze Pizza",
@@ -30,7 +30,7 @@
       "RestaurantBuilding": "Jonhson Center",
       "RestaurantDescription": "Build your own pizza, selecting from a wide array of fresh toppings, or choose a signature pizza. Each artisanal pizza is custom-crafted and then fast-fired for three minutes in a blazing-hot oven.",
       "RestaurantWebsite": "https://masondining.sodexomyway.com/dining-near-me/blaze-pizza",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/blaze_pizza.png"
     },
     {
       "RestaurantName": "Red Hot and Blue",
@@ -38,7 +38,7 @@
       "RestaurantBuilding": "Jonhson Center",
       "RestaurantDescription": "Easygoing, Southern-style BBQ chain with blues music in the background & memorabilia on the walls",
       "RestaurantWebsite": "https://www.redhotandblue.com/fairfax-va/",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/RedHotBlueLogo.jpg"
     },
     {
       "RestaurantName": "Steak n' Shake",
@@ -46,7 +46,7 @@
       "RestaurantBuilding": "Johnston Center",
       "RestaurantDescription": "American casual restaurant which features primarily burgers and hand-dipped milkshakes.",
       "RestaurantWebsite": "https://masondining.sodexomyway.com/dining-near-me/steak-n-shake",
-      "RestaurantImage": ""
+      "RestaurantImage": "https://raw.githubusercontent.com/SwagOGBaller/JSONProjectsIT315/master/steaknshake.png"
     }
   ]
 }
